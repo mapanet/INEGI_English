@@ -25,14 +25,14 @@ https://github.com/mapanet/NSE
 
 ## Documentation Index
 
-[Import INEGI Census 2020 (locality level)](docs/01_Import_INEGI_Census_2020_locality.md) 
+[01 Import INEGI Census 2020 (locality level)](docs/01_Import_INEGI_Census_2020_locality.md) 
 
 - Total population
 - Total dwellings
 - Occupied dwellings
 - Locality, municipality, and state codes
 
-[Import_INEGI_Cenus_2020_AGEB](docs/02_Import_INEGI_Census_2020_AGEB.md)   
+[02 Import_INEGI_Cenus_2020_AGEB](docs/02_Import_INEGI_Census_2020_AGEB.md)   
 
 - Population by AGEB
 - Total and occupied dwellings
@@ -40,7 +40,7 @@ https://github.com/mapanet/NSE
 - CVEGEO normalization
 - Used for AGEB ↔ colonia interpolation (NSE and population)
   
-[Import_Localidades_2025 Catalog](docs/03_Import_Localities_2025.md)   
+[03 Import_Localidades_2025 Catalog](docs/03_Import_Localities_2025.md)   
 
 - Official locality names
 - Municipality and state codes
@@ -48,7 +48,7 @@ https://github.com/mapanet/NSE
 - Integration with Boundaries for territorial labeling
 - Base dataset for rural fallback in NSE
 
-[Import_AGEEML_2026](docs/04_Import_AGEEML_2026.md)   
+[04 Import_AGEEML_2026](docs/04_Import_AGEEML_2026.md)   
 
 AGEEML 2026 import (Localities and Municipalities):
 
@@ -58,7 +58,7 @@ AGEEML 2026 import (Localities and Municipalities):
 - Territorial base for Boundaries
 - Correction of names and metadata in Layers 1–5
 
-[Import Population Proyections CONAPO 2020–2026](docs/05_Import_CONAPO_Population.md) 
+[05 Import Population Proyections CONAPO 2020–2026](docs/05_Import_CONAPO_Population.md) 
 
 - Estimated population by municipality
 - Annual growth
