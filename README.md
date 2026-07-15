@@ -32,7 +32,7 @@ https://github.com/mapanet/NSE
 - Occupied dwellings
 - Locality, municipality, and state codes
 
-[Import_INEGI_Cenus_2020_AGEB](docs/02_Import_INEGI_Cenus_2020_AGEB.md)   
+[Import_INEGI_Cenus_2020_AGEB](docs/02_Import_INEGI_Census_2020_AGEB.md)   
 
 - Population by AGEB
 - Total and occupied dwellings
